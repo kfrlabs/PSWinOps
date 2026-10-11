@@ -12,7 +12,7 @@
     RootModule           = 'PSWinOps.psm1'
 
     # Version number of this module.
-    ModuleVersion        = '1.3.1'
+    ModuleVersion        = '1.4.0'
 
     # Supported PSEditions
     # Core is supported on Windows only; the module-level guard in PSWinOps.psm1 blocks
@@ -440,7 +440,13 @@
             # IconUri = ''
 
             # ReleaseNotes of this module
-            ReleaseNotes = '## 1.3.1 - 2026-09-26 UTC
+            ReleaseNotes = '## 1.4.0 - 2026-10-11 UTC
+
+### Changed
+- Repository transferred from k9fr4n/PSWinOps to kfrlabs/PSWinOps (GitHub organisation). All repository URLs updated (badges, manifest LicenseUri/ProjectUri, help, comment-based .LINKs).
+- CI coverage upload switched to tokenless Codecov OIDC (use_oidc: true); CODECOV_TOKEN secret and badge token parameter removed.
+
+## 1.3.1 - 2026-09-26 UTC
 
 ### Fixed
 - Documentation: corrected the stale domain count ("fourteen" -> "fifteen") in about_PSWinOps.help.txt after the disk domain was split out of system in 1.3.0.
