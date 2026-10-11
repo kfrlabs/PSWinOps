@@ -52,7 +52,7 @@ function Set-ShadowCopyStorage {
             Requires: Administrator privileges (vssadmin requires elevation)
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/vssadmin-resize-shadowstorage

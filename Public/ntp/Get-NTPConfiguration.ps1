@@ -64,7 +64,7 @@ function Get-NTPConfiguration {
             Permissions:   Standard user for local queries; WinRM + admin rights for remote
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows-server/networking/windows-time-service/windows-time-service-tools-and-settings

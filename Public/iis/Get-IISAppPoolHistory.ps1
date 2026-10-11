@@ -97,7 +97,7 @@ function Get-IISAppPoolHistory {
             Requires: Web-Server (IIS) role
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/iis/manage/provisioning-and-managing-iis/troubleshooting-application-pool-issues

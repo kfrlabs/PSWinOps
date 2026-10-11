@@ -76,7 +76,7 @@ function Show-FolderUsage {
         of files and can be long on very large trees.
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
 
     .LINK
         https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-childitem

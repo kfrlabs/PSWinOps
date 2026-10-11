@@ -53,7 +53,7 @@ function Get-PublicIPAddress {
             API: https://api.ipify.org (primary), https://ifconfig.me (fallback)
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
     #>
     [CmdletBinding()]
     [OutputType('PSWinOps.PublicIPAddress')]

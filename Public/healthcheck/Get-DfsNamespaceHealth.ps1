@@ -47,7 +47,7 @@ function Get-DfsNamespaceHealth {
             Requires: Module DFSN (FS-DFS-Namespace + RSAT-DFS-Mgmt-Con)
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/powershell/module/dfsn/

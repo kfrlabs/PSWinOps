@@ -56,7 +56,7 @@ function Hide-WindowsUpdate {
             Requires: Administrator privileges
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows/win32/api/wuapi/nf-wuapi-iupdate-get_ishidden

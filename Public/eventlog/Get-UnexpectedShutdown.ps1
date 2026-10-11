@@ -59,7 +59,7 @@ function Get-UnexpectedShutdown {
         Requires: WinRM enabled on target machines for remote queries
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
 
     .LINK
         Source of truth: Windows System event log (provider EventLog for 6008/6006/1074/1076; provider Microsoft-Windows-Kernel-Power for 41)

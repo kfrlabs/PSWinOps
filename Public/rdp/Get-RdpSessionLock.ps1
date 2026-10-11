@@ -59,7 +59,7 @@ function Get-RdpSessionLock {
             Note:          Security log access requires elevated permissions
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4800

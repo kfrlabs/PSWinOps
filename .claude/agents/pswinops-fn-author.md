@@ -124,7 +124,7 @@ function <FUNCTION_NAME> {
         Requires: PowerShell 5.1+ / Windows only
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
 
     .LINK
         <spec.reference.kb_url, if any>

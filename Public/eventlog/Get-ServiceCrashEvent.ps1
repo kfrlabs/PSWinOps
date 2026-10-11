@@ -67,7 +67,7 @@ function Get-ServiceCrashEvent {
         Requires: WinRM enabled on target machines for remote queries
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
 
     .LINK
         Source of truth: Windows System event log (provider 'Service Control Manager', IDs 7000/7009/7011/7024/7031/7034)

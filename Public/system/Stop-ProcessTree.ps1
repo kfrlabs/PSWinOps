@@ -56,7 +56,7 @@ function Stop-ProcessTree {
         Requires: Sufficient privileges to terminate the target processes
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
     #>
     [CmdletBinding(SupportsShouldProcess = $true, ConfirmImpact = 'High', DefaultParameterSetName = 'ById')]
     [OutputType('PSWinOps.ProcessKillResult')]

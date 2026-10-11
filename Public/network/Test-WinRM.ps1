@@ -65,7 +65,7 @@ function Test-WinRM {
             Permissions:   No admin required for testing, target must allow WinRM
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
     #>
     [CmdletBinding()]
     [OutputType('PSWinOps.WinRMTestResult')]

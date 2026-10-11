@@ -46,7 +46,7 @@ function Get-StartupProgram {
             Requires: WinRM for remote computers
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys

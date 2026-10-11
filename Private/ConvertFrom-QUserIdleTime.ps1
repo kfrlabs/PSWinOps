@@ -33,7 +33,7 @@ function ConvertFrom-QUserIdleTime {
             Permissions:   None -- pure in-memory string parsing, no system calls
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/query-user

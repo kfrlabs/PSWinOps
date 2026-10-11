@@ -78,7 +78,7 @@ function Show-FolderUsageAge {
         buckets computed from it may reflect the last write instead.
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
 
     .LINK
         https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-childitem

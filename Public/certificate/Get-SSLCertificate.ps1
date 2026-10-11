@@ -60,7 +60,7 @@ function Get-SSLCertificate {
             Permissions: No admin required
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/dotnet/api/system.net.security.sslstream

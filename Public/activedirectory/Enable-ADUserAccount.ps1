@@ -47,7 +47,7 @@ function Enable-ADUserAccount {
         Requires: Account Operator or equivalent permissions
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
 
     .LINK
         https://learn.microsoft.com/en-us/powershell/module/activedirectory/enable-adaccount

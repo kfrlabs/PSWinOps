@@ -57,7 +57,7 @@ function Get-SubnetInfo {
             Permissions:   No admin required (pure calculation, no network access)
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
     #>
     [CmdletBinding(DefaultParameterSetName = 'CIDR')]
     [OutputType('PSWinOps.SubnetInfo')]

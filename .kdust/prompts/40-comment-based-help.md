@@ -24,7 +24,7 @@ Every public function MUST include all seven fields below, indented exactly as s
 ### Mandatory `.LINK` format (one block per URL)
 ```
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
         .LINK
             https://learn.microsoft.com/en-us/...
 ```
@@ -67,7 +67,7 @@ Every public function MUST include all seven fields below, indented exactly as s
         Requires: <privilege or dependency if applicable>
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
 
     .LINK
         https://learn.microsoft.com/en-us/...

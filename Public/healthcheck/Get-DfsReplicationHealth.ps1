@@ -48,7 +48,7 @@ function Get-DfsReplicationHealth {
             Requires: CIM namespace root/MicrosoftDfs (no extra PS module needed)
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows-server/storage/dfs-replication/dfsr-overview

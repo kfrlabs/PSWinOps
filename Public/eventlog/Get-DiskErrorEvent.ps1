@@ -71,7 +71,7 @@ function Get-DiskErrorEvent {
         Unknown is non-critical. Localized Message text is never used for classification.
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
 
     .LINK
         https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent

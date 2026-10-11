@@ -86,7 +86,7 @@ function Get-IISCertificateBinding {
             Optional: Module WebAdministration or IISAdministration (falls back to appcmd)
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/iis/manage/configuring-security/how-to-set-up-ssl-on-iis

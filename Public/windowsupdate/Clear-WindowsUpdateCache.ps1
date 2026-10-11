@@ -53,7 +53,7 @@ function Clear-WindowsUpdateCache {
             Requires: Administrator privileges (to stop services and delete cache)
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/troubleshoot/windows-client/installing-updates-features-roles/additional-resources-for-windows-update

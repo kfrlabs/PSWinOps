@@ -54,7 +54,7 @@ function Get-EnvironmentVariable {
             Requires: Remote registry or WinRM for remote Machine/User scopes
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows/win32/procthread/environment-variables

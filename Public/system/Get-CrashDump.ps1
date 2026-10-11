@@ -57,10 +57,10 @@ function Get-CrashDump {
         WinRM enabled on target machines for remote queries
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps/issues/66
+        https://github.com/kfrlabs/PSWinOps/issues/66
     #>
     [CmdletBinding()]
     [OutputType('PSWinOps.CrashDump')]

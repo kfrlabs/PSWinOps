@@ -26,7 +26,7 @@ LONG DESCRIPTION
     via WinRM.
 
     Author      : Franck SALLET
-    Repository  : https://github.com/k9fr4n/PSWinOps
+    Repository  : https://github.com/kfrlabs/PSWinOps
     License     : See repository for license details
     Requires    : PowerShell 5.1+ / Windows only
 
@@ -495,7 +495,7 @@ PSWINOPS TYPE REGISTRY
       PSWinOps.WSUSHealth
 
 SEE ALSO
-    https://github.com/k9fr4n/PSWinOps
+    https://github.com/kfrlabs/PSWinOps
     Get-Help Get-ServiceHealth
     Get-Help Get-RdpSession
     Get-Help Get-NTPConfiguration

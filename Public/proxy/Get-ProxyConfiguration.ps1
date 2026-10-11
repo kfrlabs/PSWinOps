@@ -44,7 +44,7 @@ function Get-ProxyConfiguration {
             This function is local-only by design (HKCU is user-specific, env vars are session-specific).
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/netsh-winhttp

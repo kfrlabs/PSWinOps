@@ -66,7 +66,7 @@ function Get-LogonFailure {
         Requires: WinRM enabled on target machines for remote queries
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
 
     .LINK
         Source of truth: Windows Security event log (Event ID 4625, failed logon)

@@ -42,7 +42,7 @@ function Get-SystemSummary {
             Permissions:   Local admin or equivalent WMI read permissions on remote targets
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows/win32/cimwin32prov/win32-operatingsystem

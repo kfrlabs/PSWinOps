@@ -11,7 +11,7 @@ published to the PowerShell Gallery.
 - Module: `PSWinOps` (current version in `PSWinOps.psd1` → `ModuleVersion`)
 - Runtime: **PowerShell 5.1+ / Windows only** (`CompatiblePSEditions = Desktop, Core`)
 - Author: **Franck SALLET** (k9fr4n)
-- Repo: https://github.com/k9fr4n/PSWinOps
+- Repo: https://github.com/kfrlabs/PSWinOps
 
 The loader (`PSWinOps.psm1`) hard-fails on non-Windows (`PSEdition Core` without `$IsWindows`),
 dot-sources every `.ps1` under `Private/` then `Public/`, and registers live AD argument
@@ -203,7 +203,7 @@ line between sections.
         Requires: <privilege or dependency if applicable>
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
 
     .LINK
         https://learn.microsoft.com/en-us/...

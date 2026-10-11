@@ -70,7 +70,7 @@ function Get-IISCurrentRequest {
             Requires: IIS Management Scripts and Tools feature (for appcmd.exe)
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/iis/get-started/getting-started-with-iis/getting-started-with-appcmdexe#list-the-currently-executing-requests

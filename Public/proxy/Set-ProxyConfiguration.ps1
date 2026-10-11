@@ -75,7 +75,7 @@ function Set-ProxyConfiguration {
             variables that survive logoff/reboot. Use Remove-ProxyConfiguration to clean up.
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/netsh-winhttp

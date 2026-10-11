@@ -76,13 +76,13 @@ first commit** before the Windows CI workflow has had a chance to run, which
 defeats the purpose of this hop.
 
 **Operator pre-flight (one-time setup, not done by the agent)**:
-- github.com/k9fr4n/PSWinOps → Settings → Branches → Rule for `main`:
+- github.com/kfrlabs/PSWinOps → Settings → Branches → Rule for `main`:
   - ✅ Require status checks to pass before merging
   - ✅ Require branches to be up to date before merging
   - Mark as required: every Pester Windows matrix job + ScriptAnalyzer + manifest test.
-- github.com/k9fr4n/PSWinOps → Settings → General → Pull Requests → "Allow auto-merge" ✅.
+- github.com/kfrlabs/PSWinOps → Settings → General → Pull Requests → "Allow auto-merge" ✅.
 
-If the agent detects via `gh api repos/k9fr4n/PSWinOps/branches/main/protection`
+If the agent detects via `gh api repos/kfrlabs/PSWinOps/branches/main/protection`
 that NO required checks are set, it MUST refuse to arm auto-merge and ESCALATE
 with the same setup hint above.
 

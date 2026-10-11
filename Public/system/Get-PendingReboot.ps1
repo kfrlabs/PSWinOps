@@ -48,7 +48,7 @@ function Get-PendingReboot {
             FQDN or IP of the local machine will be treated as a remote target.
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-movefileexw

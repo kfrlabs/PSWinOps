@@ -38,7 +38,7 @@ function Clear-Arp {
             Requires: Administrator privileges (netsh interface ip delete arpcache)
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows-server/networking/technologies/netsh/netsh-interface-ip

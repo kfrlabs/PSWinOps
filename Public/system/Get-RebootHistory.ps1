@@ -61,7 +61,7 @@ function Get-RebootHistory {
         Requires: WinRM enabled on target machines for remote queries
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
     #>
     [CmdletBinding()]
     [OutputType('PSWinOps.RebootHistory')]

@@ -56,7 +56,7 @@ function Trace-NetworkRoute {
             Permissions:   No admin required (ICMP may be blocked by firewall)
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
     #>
     [CmdletBinding()]
     [OutputType('PSWinOps.TraceRouteHop')]

@@ -64,7 +64,7 @@ function New-RandomPassword {
             satisfaction by placing required characters first, then shuffling.
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.rngcryptoserviceprovider

@@ -94,7 +94,7 @@ function Connect-RdpSession {
             - [KEEP] Credential now forwarded to Start-Process -Credential.
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/rds-remote-control

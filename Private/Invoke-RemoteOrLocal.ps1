@@ -59,7 +59,7 @@ function Invoke-RemoteOrLocal {
             Scope: Private - not exported
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
     #>
     [CmdletBinding()]
     param(

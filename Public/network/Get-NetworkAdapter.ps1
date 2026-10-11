@@ -57,7 +57,7 @@ function Get-NetworkAdapter {
             Permissions:   No admin required for local, admin for remote
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
     #>
     [CmdletBinding()]
     [OutputType('PSWinOps.NetworkAdapterInfo')]

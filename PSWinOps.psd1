@@ -431,10 +431,10 @@
             )
 
             # A URL to the license for this module.
-            LicenseUri   = 'https://github.com/k9fr4n/PSWinOps/blob/main/LICENSE'
+            LicenseUri   = 'https://github.com/kfrlabs/PSWinOps/blob/main/LICENSE'
 
             # A URL to the main website for this project.
-            ProjectUri   = 'https://github.com/k9fr4n/PSWinOps'
+            ProjectUri   = 'https://github.com/kfrlabs/PSWinOps'
 
             # A URL to an icon representing this module.
             # IconUri = ''

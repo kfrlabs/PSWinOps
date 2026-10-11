@@ -66,7 +66,7 @@ function Sync-NTPTime {
             and run w32tm /resync. Remote targets require PSRemoting enabled.
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows-server/networking/windows-time-service/windows-time-service-tools-and-settings

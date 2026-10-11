@@ -49,7 +49,7 @@ function Get-ADNestedGroupMembership {
         Requires: ActiveDirectory RSAT module
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
 
     .LINK
         https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-adts/4e638665-f466-4597-93c4-12f2ebfde571

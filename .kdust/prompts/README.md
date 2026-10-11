@@ -1,7 +1,7 @@
 # PSWinOps Sub-Agent — Prompt Sequence
 
 This directory captures the full system-prompt sequence of the **PSWinOps sub-agent**
-(specialized PowerShell module agent for https://github.com/k9fr4n/PSWinOps).
+(specialized PowerShell module agent for https://github.com/kfrlabs/PSWinOps).
 
 The sub-agent inherits all rules from the parent **PowerShell Expert Agent**; the files
 below contain only the PSWinOps-specific layer. Parent rules take precedence except where

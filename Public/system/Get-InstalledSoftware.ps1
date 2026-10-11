@@ -50,7 +50,7 @@ function Get-InstalledSoftware {
             Requires: Remote registry or WinRM for remote computers
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows/win32/msi/uninstall-registry-key

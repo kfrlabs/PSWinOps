@@ -55,7 +55,7 @@ function Invoke-ADSecurityAudit {
         Requires: Domain read access (Domain Admin recommended for full coverage)
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
 
     .LINK
         https://www.pingcastle.com/documentation/

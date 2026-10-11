@@ -3,12 +3,12 @@
 A collection of PowerShell utilities for Windows system administrators.
 
 [![PowerShell 5.1+](https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell)](https://microsoft.com/powershell)
-[![Publish](https://github.com/k9fr4n/PSWinOps/actions/workflows/publish.yml/badge.svg)](https://github.com/k9fr4n/PSWinOps/actions/workflows/publish.yml)
+[![Publish](https://github.com/kfrlabs/PSWinOps/actions/workflows/publish.yml/badge.svg)](https://github.com/kfrlabs/PSWinOps/actions/workflows/publish.yml)
 [![PSGallery Version](https://img.shields.io/powershellgallery/v/PSWinOps)](https://www.powershellgallery.com/packages/PSWinOps)
 [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSWinOps)](https://www.powershellgallery.com/packages/PSWinOps)
-[![GitHub Release](https://img.shields.io/github/v/release/k9fr4n/PSWinOps)](https://github.com/k9fr4n/PSWinOps/releases)
-[![CI](https://github.com/k9fr4n/PSWinOps/actions/workflows/ci.yml/badge.svg)](https://github.com/k9fr4n/PSWinOps/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/k9fr4n/PSWinOps/graph/badge.svg?token=B269KNRXTN)](https://codecov.io/gh/k9fr4n/PSWinOps)
+[![GitHub Release](https://img.shields.io/github/v/release/kfrlabs/PSWinOps)](https://github.com/kfrlabs/PSWinOps/releases)
+[![CI](https://github.com/kfrlabs/PSWinOps/actions/workflows/ci.yml/badge.svg)](https://github.com/kfrlabs/PSWinOps/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/kfrlabs/PSWinOps/graph/badge.svg?token=B269KNRXTN)](https://codecov.io/gh/kfrlabs/PSWinOps)
 
 ## Installation
 

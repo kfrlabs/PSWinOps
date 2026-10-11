@@ -43,7 +43,7 @@ function Edit-HostsFile {
             Permissions:   Triggers UAC elevation prompt
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
     #>
     [CmdletBinding(SupportsShouldProcess)]
     [OutputType('PSWinOps.ActionResult')]

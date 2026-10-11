@@ -62,7 +62,7 @@ function Get-ADLockoutSource {
         Requires: Account Lockout auditing enabled on domain controllers
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
 
     .LINK
         https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4740

@@ -65,7 +65,7 @@ function Export-NetworkConfig {
             Permissions:   Admin recommended for full details, required for remote
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
     #>
     [CmdletBinding()]
     [OutputType('PSWinOps.NetworkConfig')]

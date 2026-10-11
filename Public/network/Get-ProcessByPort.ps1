@@ -61,7 +61,7 @@ function Get-ProcessByPort {
             Requires: Admin recommended for full process path/command line resolution
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
     #>
     [CmdletBinding()]
     [OutputType('PSWinOps.ProcessPort')]

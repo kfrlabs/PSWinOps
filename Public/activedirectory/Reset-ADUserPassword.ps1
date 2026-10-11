@@ -56,7 +56,7 @@ function Reset-ADUserPassword {
         Requires: Account Operator or Reset Password delegation
 
     .LINK
-        https://github.com/k9fr4n/PSWinOps
+        https://github.com/kfrlabs/PSWinOps
 
     .LINK
         https://learn.microsoft.com/en-us/powershell/module/activedirectory/set-adaccountpassword

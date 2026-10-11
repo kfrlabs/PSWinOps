@@ -60,7 +60,7 @@ function Get-ListeningPort {
             Permissions:   Admin recommended for full process name resolution
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
     #>
     [CmdletBinding()]
     [OutputType('PSWinOps.ListeningPort')]

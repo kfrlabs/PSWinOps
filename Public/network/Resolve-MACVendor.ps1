@@ -50,7 +50,7 @@ function Resolve-MACVendor {
             Microsoft, HP, Dell, Apple, etc.). Use -Online for full coverage.
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://macvendors.io/

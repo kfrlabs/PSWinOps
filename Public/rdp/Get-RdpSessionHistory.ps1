@@ -67,7 +67,7 @@ function Get-RdpSessionHistory {
             Permissions:   Remote Event Log Readers group or local Administrator on target machines
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows/win32/termserv/terminal-services-events

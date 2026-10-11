@@ -41,7 +41,7 @@ function Get-NTPPeer {
             Permissions: Local user for local queries; remote admin for Invoke-Command remoting
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows-server/networking/windows-time-service/windows-time-service-tools-and-settings

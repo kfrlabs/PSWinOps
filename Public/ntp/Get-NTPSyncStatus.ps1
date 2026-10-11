@@ -51,7 +51,7 @@ function Get-NTPSyncStatus {
             Permissions:   Admin rights required for remote queries (WinRM access)
 
         .LINK
-            https://github.com/k9fr4n/PSWinOps
+            https://github.com/kfrlabs/PSWinOps
 
         .LINK
             https://learn.microsoft.com/en-us/windows-server/networking/windows-time-service/windows-time-service-tools-and-settings
