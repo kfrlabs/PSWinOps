@@ -8,7 +8,7 @@ A collection of PowerShell utilities for Windows system administrators.
 [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PSWinOps)](https://www.powershellgallery.com/packages/PSWinOps)
 [![GitHub Release](https://img.shields.io/github/v/release/kfrlabs/PSWinOps)](https://github.com/kfrlabs/PSWinOps/releases)
 [![CI](https://github.com/kfrlabs/PSWinOps/actions/workflows/ci.yml/badge.svg)](https://github.com/kfrlabs/PSWinOps/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/kfrlabs/PSWinOps/graph/badge.svg?token=B269KNRXTN)](https://codecov.io/gh/kfrlabs/PSWinOps)
+[![codecov](https://codecov.io/gh/kfrlabs/PSWinOps/graph/badge.svg)](https://codecov.io/gh/kfrlabs/PSWinOps)
 
 ## Installation
 
